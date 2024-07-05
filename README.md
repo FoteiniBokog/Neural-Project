@@ -3,4 +3,4 @@ In the first exercise we built two classifiers based on the multilevel perceptro
 while in both programs the gradient descent training algorithm was used.
 
 #Excersice2
-In the second exercise we built a clustering program with M groups based on the k-means algorithm.
+In the second exercise we built a clustering program Π3 with M groups based on the k-means algorithm.
